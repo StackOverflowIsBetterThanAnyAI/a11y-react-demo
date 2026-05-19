@@ -14,3 +14,4 @@
 - 1x modal button has no aria-expanded
 - 1x when modal is open, it is possible to use the elements behind it
 - 1x no focus trap in modal
+- 4x text outside a landmark
